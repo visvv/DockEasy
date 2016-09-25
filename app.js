@@ -1,4 +1,5 @@
 var express = require('express');
+var request = require('request');
 var path = require('path');
 var favicon = require('serve-favicon');
 var logger = require('morgan');
@@ -24,6 +25,17 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', routes);
 app.use('/users', users);
+app.use('/docker', function(req, res) {
+    var url = 'http://localhost:2375'+ req.url;
+    var r = null;
+    console.log(url);
+    if(req.method === 'POST') {
+        r = request.post({uri: url, json: req.body});
+    } else {
+        r = request(url);
+    }
+    req.pipe(r).pipe(res);
+});
 app.listen(8080);
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
