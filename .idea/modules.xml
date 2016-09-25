@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Semantic.iml" filepath="$PROJECT_DIR$/Semantic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DockEasy.iml" filepath="$PROJECT_DIR$/DockEasy.iml" />
     </modules>
   </component>
 </project>
+

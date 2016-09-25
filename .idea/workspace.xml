@@ -1,12 +1,175 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33b45912-e5cc-4457-b6cb-12e47df238a7" name="Default" comment="" />
+    <list default="true" id="33b45912-e5cc-4457-b6cb-12e47df238a7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/app/components/docker/ImageController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/app/components/docker/ImageService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/jquery-2.2.4.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/accordion.css" afterPath="$PROJECT_DIR$/public/css/components/accordion.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/accordion.js" afterPath="$PROJECT_DIR$/public/css/components/accordion.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/accordion.min.css" afterPath="$PROJECT_DIR$/public/css/components/accordion.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/accordion.min.js" afterPath="$PROJECT_DIR$/public/css/components/accordion.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/ad.css" afterPath="$PROJECT_DIR$/public/css/components/ad.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/ad.min.css" afterPath="$PROJECT_DIR$/public/css/components/ad.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/api.js" afterPath="$PROJECT_DIR$/public/css/components/api.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/api.min.js" afterPath="$PROJECT_DIR$/public/css/components/api.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/breadcrumb.css" afterPath="$PROJECT_DIR$/public/css/components/breadcrumb.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/breadcrumb.min.css" afterPath="$PROJECT_DIR$/public/css/components/breadcrumb.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/button.css" afterPath="$PROJECT_DIR$/public/css/components/button.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/button.min.css" afterPath="$PROJECT_DIR$/public/css/components/button.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/card.css" afterPath="$PROJECT_DIR$/public/css/components/card.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/card.min.css" afterPath="$PROJECT_DIR$/public/css/components/card.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/checkbox.css" afterPath="$PROJECT_DIR$/public/css/components/checkbox.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/checkbox.js" afterPath="$PROJECT_DIR$/public/css/components/checkbox.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/checkbox.min.css" afterPath="$PROJECT_DIR$/public/css/components/checkbox.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/checkbox.min.js" afterPath="$PROJECT_DIR$/public/css/components/checkbox.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/colorize.js" afterPath="$PROJECT_DIR$/public/css/components/colorize.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/colorize.min.js" afterPath="$PROJECT_DIR$/public/css/components/colorize.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/comment.css" afterPath="$PROJECT_DIR$/public/css/components/comment.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/comment.min.css" afterPath="$PROJECT_DIR$/public/css/components/comment.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/container.css" afterPath="$PROJECT_DIR$/public/css/components/container.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/container.min.css" afterPath="$PROJECT_DIR$/public/css/components/container.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/dimmer.css" afterPath="$PROJECT_DIR$/public/css/components/dimmer.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/dimmer.js" afterPath="$PROJECT_DIR$/public/css/components/dimmer.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/dimmer.min.css" afterPath="$PROJECT_DIR$/public/css/components/dimmer.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/dimmer.min.js" afterPath="$PROJECT_DIR$/public/css/components/dimmer.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/divider.css" afterPath="$PROJECT_DIR$/public/css/components/divider.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/divider.min.css" afterPath="$PROJECT_DIR$/public/css/components/divider.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/dropdown.css" afterPath="$PROJECT_DIR$/public/css/components/dropdown.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/dropdown.js" afterPath="$PROJECT_DIR$/public/css/components/dropdown.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/dropdown.min.css" afterPath="$PROJECT_DIR$/public/css/components/dropdown.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/dropdown.min.js" afterPath="$PROJECT_DIR$/public/css/components/dropdown.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/embed.css" afterPath="$PROJECT_DIR$/public/css/components/embed.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/embed.js" afterPath="$PROJECT_DIR$/public/css/components/embed.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/embed.min.css" afterPath="$PROJECT_DIR$/public/css/components/embed.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/embed.min.js" afterPath="$PROJECT_DIR$/public/css/components/embed.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/feed.css" afterPath="$PROJECT_DIR$/public/css/components/feed.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/feed.min.css" afterPath="$PROJECT_DIR$/public/css/components/feed.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/flag.css" afterPath="$PROJECT_DIR$/public/css/components/flag.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/flag.min.css" afterPath="$PROJECT_DIR$/public/css/components/flag.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/form.css" afterPath="$PROJECT_DIR$/public/css/components/form.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/form.js" afterPath="$PROJECT_DIR$/public/css/components/form.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/form.min.css" afterPath="$PROJECT_DIR$/public/css/components/form.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/form.min.js" afterPath="$PROJECT_DIR$/public/css/components/form.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/grid.css" afterPath="$PROJECT_DIR$/public/css/components/grid.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/grid.min.css" afterPath="$PROJECT_DIR$/public/css/components/grid.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/header.css" afterPath="$PROJECT_DIR$/public/css/components/header.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/header.min.css" afterPath="$PROJECT_DIR$/public/css/components/header.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/icon.css" afterPath="$PROJECT_DIR$/public/css/components/icon.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/icon.min.css" afterPath="$PROJECT_DIR$/public/css/components/icon.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/image.css" afterPath="$PROJECT_DIR$/public/css/components/image.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/image.min.css" afterPath="$PROJECT_DIR$/public/css/components/image.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/input.css" afterPath="$PROJECT_DIR$/public/css/components/input.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/input.min.css" afterPath="$PROJECT_DIR$/public/css/components/input.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/item.css" afterPath="$PROJECT_DIR$/public/css/components/item.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/item.min.css" afterPath="$PROJECT_DIR$/public/css/components/item.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/label.css" afterPath="$PROJECT_DIR$/public/css/components/label.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/label.min.css" afterPath="$PROJECT_DIR$/public/css/components/label.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/list.css" afterPath="$PROJECT_DIR$/public/css/components/list.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/list.min.css" afterPath="$PROJECT_DIR$/public/css/components/list.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/loader.css" afterPath="$PROJECT_DIR$/public/css/components/loader.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/loader.min.css" afterPath="$PROJECT_DIR$/public/css/components/loader.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/menu.css" afterPath="$PROJECT_DIR$/public/css/components/menu.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/menu.min.css" afterPath="$PROJECT_DIR$/public/css/components/menu.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/message.css" afterPath="$PROJECT_DIR$/public/css/components/message.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/message.min.css" afterPath="$PROJECT_DIR$/public/css/components/message.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/modal.css" afterPath="$PROJECT_DIR$/public/css/components/modal.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/modal.js" afterPath="$PROJECT_DIR$/public/css/components/modal.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/modal.min.css" afterPath="$PROJECT_DIR$/public/css/components/modal.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/modal.min.js" afterPath="$PROJECT_DIR$/public/css/components/modal.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/nag.css" afterPath="$PROJECT_DIR$/public/css/components/nag.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/nag.js" afterPath="$PROJECT_DIR$/public/css/components/nag.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/nag.min.css" afterPath="$PROJECT_DIR$/public/css/components/nag.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/nag.min.js" afterPath="$PROJECT_DIR$/public/css/components/nag.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/popup.css" afterPath="$PROJECT_DIR$/public/css/components/popup.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/popup.js" afterPath="$PROJECT_DIR$/public/css/components/popup.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/popup.min.css" afterPath="$PROJECT_DIR$/public/css/components/popup.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/popup.min.js" afterPath="$PROJECT_DIR$/public/css/components/popup.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/progress.css" afterPath="$PROJECT_DIR$/public/css/components/progress.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/progress.js" afterPath="$PROJECT_DIR$/public/css/components/progress.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/progress.min.css" afterPath="$PROJECT_DIR$/public/css/components/progress.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/progress.min.js" afterPath="$PROJECT_DIR$/public/css/components/progress.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/rail.css" afterPath="$PROJECT_DIR$/public/css/components/rail.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/rail.min.css" afterPath="$PROJECT_DIR$/public/css/components/rail.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/rating.css" afterPath="$PROJECT_DIR$/public/css/components/rating.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/rating.js" afterPath="$PROJECT_DIR$/public/css/components/rating.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/rating.min.css" afterPath="$PROJECT_DIR$/public/css/components/rating.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/rating.min.js" afterPath="$PROJECT_DIR$/public/css/components/rating.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/reset.css" afterPath="$PROJECT_DIR$/public/css/components/reset.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/reset.min.css" afterPath="$PROJECT_DIR$/public/css/components/reset.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/reveal.css" afterPath="$PROJECT_DIR$/public/css/components/reveal.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/reveal.min.css" afterPath="$PROJECT_DIR$/public/css/components/reveal.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/search.css" afterPath="$PROJECT_DIR$/public/css/components/search.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/search.js" afterPath="$PROJECT_DIR$/public/css/components/search.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/search.min.css" afterPath="$PROJECT_DIR$/public/css/components/search.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/search.min.js" afterPath="$PROJECT_DIR$/public/css/components/search.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/segment.css" afterPath="$PROJECT_DIR$/public/css/components/segment.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/segment.min.css" afterPath="$PROJECT_DIR$/public/css/components/segment.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/shape.css" afterPath="$PROJECT_DIR$/public/css/components/shape.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/shape.js" afterPath="$PROJECT_DIR$/public/css/components/shape.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/shape.min.css" afterPath="$PROJECT_DIR$/public/css/components/shape.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/shape.min.js" afterPath="$PROJECT_DIR$/public/css/components/shape.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/sidebar.css" afterPath="$PROJECT_DIR$/public/css/components/sidebar.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/sidebar.js" afterPath="$PROJECT_DIR$/public/css/components/sidebar.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/sidebar.min.css" afterPath="$PROJECT_DIR$/public/css/components/sidebar.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/sidebar.min.js" afterPath="$PROJECT_DIR$/public/css/components/sidebar.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/site.css" afterPath="$PROJECT_DIR$/public/css/components/site.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/site.js" afterPath="$PROJECT_DIR$/public/css/components/site.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/site.min.css" afterPath="$PROJECT_DIR$/public/css/components/site.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/site.min.js" afterPath="$PROJECT_DIR$/public/css/components/site.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/state.js" afterPath="$PROJECT_DIR$/public/css/components/state.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/state.min.js" afterPath="$PROJECT_DIR$/public/css/components/state.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/statistic.css" afterPath="$PROJECT_DIR$/public/css/components/statistic.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/statistic.min.css" afterPath="$PROJECT_DIR$/public/css/components/statistic.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/step.css" afterPath="$PROJECT_DIR$/public/css/components/step.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/step.min.css" afterPath="$PROJECT_DIR$/public/css/components/step.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/sticky.css" afterPath="$PROJECT_DIR$/public/css/components/sticky.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/sticky.js" afterPath="$PROJECT_DIR$/public/css/components/sticky.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/sticky.min.css" afterPath="$PROJECT_DIR$/public/css/components/sticky.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/sticky.min.js" afterPath="$PROJECT_DIR$/public/css/components/sticky.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/tab.css" afterPath="$PROJECT_DIR$/public/css/components/tab.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/tab.js" afterPath="$PROJECT_DIR$/public/css/components/tab.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/tab.min.css" afterPath="$PROJECT_DIR$/public/css/components/tab.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/tab.min.js" afterPath="$PROJECT_DIR$/public/css/components/tab.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/table.css" afterPath="$PROJECT_DIR$/public/css/components/table.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/table.min.css" afterPath="$PROJECT_DIR$/public/css/components/table.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/transition.css" afterPath="$PROJECT_DIR$/public/css/components/transition.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/transition.js" afterPath="$PROJECT_DIR$/public/css/components/transition.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/transition.min.css" afterPath="$PROJECT_DIR$/public/css/components/transition.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/transition.min.js" afterPath="$PROJECT_DIR$/public/css/components/transition.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/video.css" afterPath="$PROJECT_DIR$/public/css/components/video.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/video.js" afterPath="$PROJECT_DIR$/public/css/components/video.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/video.min.css" afterPath="$PROJECT_DIR$/public/css/components/video.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/video.min.js" afterPath="$PROJECT_DIR$/public/css/components/video.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/visibility.js" afterPath="$PROJECT_DIR$/public/css/components/visibility.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/visibility.min.js" afterPath="$PROJECT_DIR$/public/css/components/visibility.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/visit.js" afterPath="$PROJECT_DIR$/public/css/components/visit.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/components/visit.min.js" afterPath="$PROJECT_DIR$/public/css/components/visit.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/package.js" afterPath="$PROJECT_DIR$/public/css/package.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/package.json" afterPath="$PROJECT_DIR$/public/css/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/semantic.css" afterPath="$PROJECT_DIR$/public/css/semantic.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/semantic.js" afterPath="$PROJECT_DIR$/public/css/semantic.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/semantic.min.css" afterPath="$PROJECT_DIR$/public/css/semantic.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/semantic.min.js" afterPath="$PROJECT_DIR$/public/css/semantic.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/themes/default/assets/fonts/icons.eot" afterPath="$PROJECT_DIR$/public/css/themes/default/assets/fonts/icons.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/themes/default/assets/fonts/icons.otf" afterPath="$PROJECT_DIR$/public/css/themes/default/assets/fonts/icons.otf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/themes/default/assets/fonts/icons.svg" afterPath="$PROJECT_DIR$/public/css/themes/default/assets/fonts/icons.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/themes/default/assets/fonts/icons.ttf" afterPath="$PROJECT_DIR$/public/css/themes/default/assets/fonts/icons.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/themes/default/assets/fonts/icons.woff" afterPath="$PROJECT_DIR$/public/css/themes/default/assets/fonts/icons.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/themes/default/assets/fonts/icons.woff2" afterPath="$PROJECT_DIR$/public/css/themes/default/assets/fonts/icons.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/themes/default/assets/images/flags.png" afterPath="$PROJECT_DIR$/public/css/themes/default/assets/images/flags.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Semantic.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/dataSources.local.xml" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,17 +180,100 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="Semantic" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="90" column="7" selection-start-line="88" selection-start-column="7" selection-end-line="90" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="2071">
+              <caret line="15" column="64" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.571428" vertical-offset="0" max-vertical-offset="2071">
+              <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="114">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.8079179" vertical-offset="0" max-vertical-offset="1254">
+              <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery-2.2.4.min.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/jquery-2.2.4.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="171">
+              <caret line="3" column="21384" selection-start-line="3" selection-start-column="21384" selection-end-line="3" selection-end-column="21384" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PageController.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/app/components/page/PageController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="303" max-vertical-offset="1292">
+              <caret line="50" column="7" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageService.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/app/components/docker/ImageService.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="437">
+              <caret line="0" column="29" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PageService.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/app/components/page/PageService.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="646">
+              <caret line="15" column="9" selection-start-line="6" selection-start-column="22" selection-end-line="15" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageController.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/app/components/docker/ImageController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="152" max-vertical-offset="342">
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -42,17 +288,30 @@
       </list>
     </option>
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
+    <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/js/app/app.js" />
+        <option value="$PROJECT_DIR$/js/jquery-2.2.4.min.js" />
+        <option value="$PROJECT_DIR$/js/app/components/docker/ImageService.js" />
+        <option value="$PROJECT_DIR$/js/app/components/docker/ImageController.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/app/server.js" />
+        <option value="$PROJECT_DIR$/app.js" />
       </list>
     </option>
+  </component>
+  <component name="JsBowerSettings">
+    <exe-path>/usr/bin/bower</exe-path>
+    <config-path />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsBuildToolPackageJson" detection-done="true" />
@@ -67,10 +326,48 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1616" />
-    <option name="height" value="876" />
+    <option name="x" value="-1" />
+    <option name="y" value="28" />
+    <option name="width" value="1602" />
+    <option name="height" value="839" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>GSPGrailsGroovy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GrailsGroovy</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>J2ME Plugin</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -79,8 +376,13 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -93,109 +395,125 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
-      <manualOrder />
-      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Semantic" />
+              <option name="myItemId" value="DockEasy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Semantic" />
+              <option name="myItemId" value="DockEasy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Semantic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Semantic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Semantic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="DockEasy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="aspect.path.notification.shown" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="plugin&#9;ACTION&#9;Mvc.Plugins" />
+    <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="reference.settings.deploy.options" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
       <recent name="C:\Users\vasudvis\github\Semantic\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <module name="" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="EXTRA_OPTIONS" value="" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="true" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -213,23 +531,67 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+    <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="myFilePath" />
-      <option name="GLUE" />
-      <option name="myNameFilter" />
-      <option name="myGeneratedName" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
       <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
@@ -267,23 +629,8 @@
       <option name="usbDebugPort" value="7936" />
       <method />
     </configuration>
-    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
-      <option name="BCName" value="" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="moduleName" value="" />
-      <option name="trusted" value="true" />
-      <method />
-    </configuration>
     <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
-        <option name="executionName" />
         <option name="externalProjectPath" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" />
@@ -297,64 +644,31 @@
       </ExternalSystemSettings>
       <method />
     </configuration>
-    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
-      <setting name="vmparams" value="" />
-      <setting name="cmdLine" value="run-app" />
-      <setting name="passParentEnv" value="true" />
-      <setting name="launchBrowser" value="true" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
       <method />
     </configuration>
-    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <configuration default="true" type="Applet" factoryName="Applet">
       <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
       <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -368,257 +682,323 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Semantic" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
-      <method />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory>$PROJECT_DIR$</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>DIRECTORY</test-kind>
-      <test-directory />
-      <recursive>false</recursive>
-      <method />
-    </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
-      <method />
-    </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
-      <method />
-    </configuration>
-    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
-      <method />
-    </configuration>
+    <list size="0" />
   </component>
   <component name="SbtLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
     </option>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="33b45912-e5cc-4457-b6cb-12e47df238a7" name="Default" comment="" />
       <created>1474776951073</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
       <updated>1474776951073</updated>
       <workItem from="1474776972842" duration="2384000" />
+      <workItem from="1474797158173" duration="4272000" />
+      <workItem from="1474803866202" duration="1968000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2384000" />
+    <option name="totallyTimeSpent" value="8624000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
+    <frame x="-1" y="28" width="1602" height="839" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32968536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/package.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2071">
+          <caret line="15" column="64" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/jquery-2.2.4.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="171">
+          <caret line="3" column="21384" selection-start-line="3" selection-start-column="21384" selection-end-line="3" selection-end-column="21384" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/app/components/page/PageController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="303" max-vertical-offset="1292">
+          <caret line="50" column="7" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="76" max-vertical-offset="513">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/app/components/docker/ImageService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="437">
+          <caret line="0" column="29" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/app/components/page/PageService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="646">
+          <caret line="15" column="9" selection-start-line="6" selection-start-column="22" selection-end-line="15" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/app/components/docker/ImageController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="152" max-vertical-offset="342">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1919">
           <caret line="90" column="7" selection-start-line="88" selection-start-column="7" selection-end-line="90" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/package.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="513">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/app/components/docker/ImageService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="704">
+          <caret line="0" column="29" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/app/components/page/PageService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+          <caret line="15" column="9" selection-start-line="6" selection-start-column="22" selection-end-line="15" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/jquery-2.2.4.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="171">
+          <caret line="3" column="21384" selection-start-line="3" selection-start-column="21384" selection-end-line="3" selection-end-column="21384" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/app/components/page/PageController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="303" max-vertical-offset="1292">
+          <caret line="50" column="7" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/app/components/docker/ImageController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="342">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="2071">
+          <caret line="15" column="64" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.571428" vertical-offset="0" max-vertical-offset="2071">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="682">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8079179" vertical-offset="0" max-vertical-offset="1254">
+          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Detection</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>DockEasy</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
+
